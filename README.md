@@ -1,122 +1,92 @@
-# 👨‍💻 MoraisCodex
+# 👋 Hey, I'm MoraisCodex!
 
-### Full-Stack Developer · Software Engineering · Building Digital Solutions
+### 💻 Full-Stack Developer | Software Engineering Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Turning+Ideas+Into+Code;Engineering+Solutions+That+Matter;Building.+Learning.+Innovating." alt="Typing animation"/>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=36BCF7&vCenter=true&width=600&lines=Turning+Ideas+Into+Code+%F0%9F%92%A1;Building+Software+Solutions+%F0%9F%9A%80;Learning+%7C+Building+%7C+Improving+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/moraiscodex">
-    <img src="https://img.shields.io/badge/GitHub-MoraisCodex-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/moraisth8/">
-    <img src="https://img.shields.io/badge/Instagram-@moraisth8-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Software%20Development-2563EB?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Software Development"/>
 </p>
 
 ---
 
-## `01` — About Me
+## 🧑‍💻 About Me
 
-Hey! I'm **MoraisCodex**, a developer passionate about technology, software engineering, and creating solutions that make a difference.
+Hey there! I'm **MoraisCodex** 👋
 
-I enjoy transforming ideas into functional applications, exploring modern technologies, and continuously improving my development skills.
+I'm passionate about technology, programming, and creating software that solves real problems. I enjoy experimenting with new ideas, learning how things work, and turning concepts into useful applications.
 
-- 💻 **Development:** Exploring full-stack technologies and software engineering.
-- ⚡ **Current Project:** Building OtimizaPC, a Windows optimization application.
-- 🌐 **Web Technologies:** Exploring modern frontend, backend, and API development.
-- 🧠 **Problem Solving:** Interested in automation, performance, and clean code.
-- 🚀 **Growth:** Learning, experimenting, and building projects one step at a time.
+- 🔭 **Currently working on:** OtimizaPC
+- 🌱 **Currently learning:** Full-stack development and software engineering
+- ⚡ **Interested in:** Automation, APIs, desktop apps, and system performance
+- 🎮 **Fun fact:** I love technology, gaming, and exploring new tools
+- 🎯 **My mindset:** Learn something new, build something useful, repeat!
 
-```text
-> Think critically.
-> Build intentionally.
-> Improve continuously.
-```
+> 💡 "Great things start with a simple idea and a lot of persistence."
 
 ---
 
-## `02` — Tech Stack
+## 🛠️ My Tech Stack
 
-### Languages & Web
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="Languages"/>
-</p>
-
-### Frameworks & Runtime
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs" alt="Frameworks and runtime"/>
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,git,github,vscode&theme=dark" alt="Technologies and tools" />
 </p>
 
 ---
 
-## `03` — Featured Project
+## 🚀 Featured Project
 
 ### ⚡ OtimizaPC
 
-**A Windows optimization application focused on performance, maintenance, and usability.**
+**Making PC maintenance simpler.**
 
-OtimizaPC aims to bring practical system tools together in an organized desktop experience.
+OtimizaPC is a Windows desktop application in development, designed to bring useful maintenance and optimization tools together in one interface.
 
-| Area | Objective |
-|:--|:--|
-| 🧹 System Maintenance | Simplify routine cleanup tasks |
-| 🎮 Gaming | Organize gaming-related optimization tools |
-| ⚙️ Windows Tools | Centralize useful system utilities |
-| 🖥️ User Experience | Deliver a clean and intuitive interface |
+- 🧹 **System Cleanup** — Tools for routine maintenance.
+- 🎮 **Gaming Tools** — Features focused on gaming-related optimization.
+- ⚙️ **Windows Utilities** — Useful system tools in one place.
+- 🖥️ **User Experience** — A practical, organized desktop interface.
 
-**Status:** `In Development`
-
----
-
-## `04` — GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=moraiscodex&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraiscodex&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=moraiscodex&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
+<p>
+  <img src="https://img.shields.io/badge/Status-In%20Development-FFA500?style=flat-square" alt="Project status" />
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows" alt="Windows" />
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ---
 
-## `05` — Let's Connect
+## 📊 My GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=moraiscodex&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moraiscodex&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=moraiscodex&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🌐 Let's Connect!
+
+<p align="left">
   <a href="https://github.com/moraiscodex">
-    <img src="https://img.shields.io/badge/Explore%20My%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="Explore my GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="Explore my GitHub" />
   </a>
   <a href="https://www.instagram.com/moraisth8/">
-    <img src="https://img.shields.io/badge/Follow%20Me-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-Say%20hello-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
   </a>
-</p>
-
-<p align="center">
-  Open to learning, exchanging ideas, and connecting with people passionate about technology.
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=120&section=footer" alt="Profile footer"/>
-</p>
-
-<p align="center">
-  <i>"Great software is not just written. It is designed, refined, and built with purpose."</i>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
